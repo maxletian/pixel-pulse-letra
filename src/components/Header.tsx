@@ -82,7 +82,7 @@ const Header = () => {
           <div className="hidden lg:flex items-center gap-4">
             <Button
               className="btn-teal"
-              onClick={() => window.open('https://wa.me/1234567890', '_blank')}
+              onClick={() => window.open('https://wa.me/254108899189', '_blank')}
             >
               Get Started
             </Button>
@@ -121,7 +121,7 @@ const Header = () => {
           ))}
           <Button
             className="btn-teal mt-4"
-            onClick={() => window.open('https://wa.me/1234567890', '_blank')}
+            onClick={() => window.open('https://wa.me/254108899189', '_blank')}
           >
             Get Started
           </Button>

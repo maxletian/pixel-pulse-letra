@@ -51,7 +51,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16 animate-fade-in" style={{ animationDelay: '0.3s' }}>
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/254108899189"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-hero-primary w-full sm:w-auto"
@@ -61,7 +61,7 @@ const Hero = () => {
               <ArrowRight size={18} />
             </a>
             <a
-              href="mailto:contact@letrax.com"
+              href="mailto:letrix27@gmail.com"
               className="btn-hero-secondary w-full sm:w-auto"
             >
               <Mail size={20} />

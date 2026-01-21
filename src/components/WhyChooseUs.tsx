@@ -131,7 +131,7 @@ const WhyChooseUs = () => {
 
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://wa.me/1234567890"
+                  href="https://wa.me/254108899189"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-primary font-semibold rounded-xl hover:bg-white/90 transition-colors"
@@ -139,7 +139,7 @@ const WhyChooseUs = () => {
                   Start a Conversation
                 </a>
                 <a
-                  href="mailto:contact@letrax.com"
+                  href="mailto:letrix27@gmail.com"
                   className="inline-flex items-center justify-center gap-2 px-6 py-3 border-2 border-white/30 text-white font-semibold rounded-xl hover:bg-white/10 transition-colors"
                 >
                   Email Us

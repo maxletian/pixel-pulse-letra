@@ -130,7 +130,7 @@ const Services = () => {
             Need a custom solution? Let's discuss your requirements.
           </p>
           <a
-            href="https://wa.me/1234567890"
+            href="https://wa.me/254108899189"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-teal inline-flex"
