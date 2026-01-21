@@ -151,7 +151,7 @@ const Training = () => {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/254108899189"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-hero-primary"
@@ -160,7 +160,7 @@ const Training = () => {
               <ArrowRight size={18} />
             </a>
             <a
-              href="mailto:contact@letrax.com"
+              href="mailto:letrix27@gmail.com"
               className="inline-flex items-center gap-2 px-6 py-3 font-semibold text-primary hover:text-primary/80 transition-colors"
             >
               Or Email Us

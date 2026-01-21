@@ -17,7 +17,7 @@ const Contact = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // Construct mailto link with form data
-    const mailtoLink = `mailto:contact@letrax.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`)}`;
+    const mailtoLink = `mailto:letrix27@gmail.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`)}`;
     window.location.href = mailtoLink;
     
     toast({
@@ -37,15 +37,15 @@ const Contact = () => {
     {
       icon: MessageCircle,
       label: 'WhatsApp',
-      value: '+1 (234) 567-890',
-      href: 'https://wa.me/1234567890',
+      value: '+254 108 899 189',
+      href: 'https://wa.me/254108899189',
       description: 'Quick responses, usually within minutes',
     },
     {
       icon: Mail,
       label: 'Email',
-      value: 'contact@letrax.com',
-      href: 'mailto:contact@letrax.com',
+      value: 'letrix27@gmail.com',
+      href: 'mailto:letrix27@gmail.com',
       description: 'For detailed inquiries and proposals',
     },
     {
@@ -79,7 +79,7 @@ const Contact = () => {
         <div className="grid md:grid-cols-2 gap-6 mb-16">
           {/* WhatsApp Card */}
           <a
-            href="https://wa.me/1234567890"
+            href="https://wa.me/254108899189"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-gradient-to-br from-[hsl(142,70%,45%)] to-[hsl(142,70%,35%)] rounded-2xl p-8 text-primary-foreground hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
@@ -102,7 +102,7 @@ const Contact = () => {
 
           {/* Email Card */}
           <a
-            href="mailto:contact@letrax.com"
+            href="mailto:letrix27@gmail.com"
             className="group bg-hero-gradient rounded-2xl p-8 text-white hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
           >
             <div className="flex items-start justify-between mb-6">

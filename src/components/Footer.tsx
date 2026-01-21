@@ -62,7 +62,7 @@ const Footer = () => {
             {/* CTA */}
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/254108899189"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-5 py-3 bg-[hsl(142,70%,45%)] hover:bg-[hsl(142,70%,40%)] text-primary-foreground font-semibold rounded-lg transition-colors"
@@ -71,7 +71,7 @@ const Footer = () => {
                 WhatsApp Us
               </a>
               <a
-                href="mailto:contact@letrax.com"
+                href="mailto:letrix27@gmail.com"
                 className="inline-flex items-center justify-center gap-2 px-5 py-3 border border-white/30 hover:bg-white/10 text-white font-semibold rounded-lg transition-colors"
               >
                 <Mail size={18} />
@@ -129,21 +129,21 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-secondary shrink-0 mt-0.5" />
                 <a
-                  href="mailto:contact@letrax.com"
+                  href="mailto:letrix27@gmail.com"
                   className="text-white/70 hover:text-secondary transition-colors"
                 >
-                  contact@letrax.com
+                  letrix27@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MessageCircle className="w-5 h-5 text-secondary shrink-0 mt-0.5" />
                 <a
-                  href="https://wa.me/1234567890"
+                  href="https://wa.me/254108899189"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/70 hover:text-secondary transition-colors"
                 >
-                  +1 (234) 567-890
+                  +254 108 899 189
                 </a>
               </li>
               <li className="flex items-start gap-3">
